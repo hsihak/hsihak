@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hangsihak Sin</h1>
-<h3 align="center">A First Year Computer Science Student at Conestoga College</h3>
+<h3 align="center">I am a First Year Computer Science Student at Conestoga College</h3>
 
 
 
