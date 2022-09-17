@@ -8,9 +8,9 @@
 # 💫 About Me :
 - 😄 Pronouns **He/Him**
 
-- 🧑🏼‍💻 I’m currently learning **C and TypeScript**
+- 🧑🏼‍💻 I’m currently learning **C** && **TypeScript**
 
-- 🌱 I'm interested in Web Dev and DevOps
+- 🌱 I'm interested in **Web Dev** && **DevOps**
 
 - 📫 How to reach me **s.hsihak@gmail.com**
 
