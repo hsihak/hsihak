@@ -8,7 +8,7 @@
 # 💫 About Me :
 - 😄 Pronouns **He/Him**
 
-- 🧑🏼‍💻 I’m currently learning **C** && **TypeScript**
+- 🧑🏼‍💻 I’m currently learning **C++** && **TypeScript**
 
 - 🌱 I'm interested in **Web Dev** && **DevOps**
 
@@ -23,6 +23,7 @@
 
 ## Languages and Frameworks
 <div>
+  <a href="https://isocpp.org/std/the-standard" target="_blank" rel="noreferrer"> <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042014/c_0.png?itok=Hv2Kaisp" alt="cpp" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
