@@ -3,6 +3,7 @@
 
 ## 😄 About Me :
 
+Check out my website to learn more about me: https://hsihak.vercel.app/
 - 🧑🏼‍💻 I’m currently learning **Go** && **TypeScript**
 
 - 🌱 I'm interested in **Web Dev** && **DevOps**
