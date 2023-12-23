@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hangsihak Sin ⸜(｡˃ ᵕ ˂ )⸝</h1>
-<h3 align="center">I am a Second Year Computer Science Nerd from Conestoga College</h3>
+<h2 align="center">Hi 👋, I'm Hangsihak Sin ⸜(｡˃ ᵕ ˂ )⸝</h2>
+<h4 align="center">I am a Second Year Computer Science Nerd from <a href="https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours" target="_blank" rel="noreferrer">Conestoga College</a></h4>
 
-
-
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsihak" alt="hsihak" /></a> </div>
-
-# 😄 About Me :
+## 😄 About Me :
 
 - 🧑🏼‍💻 I’m currently learning **Go** && **TypeScript**
 
@@ -56,6 +52,13 @@
 </div>
 
 ## 📟 GitHub Stats
+
+
+<div> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsihak" alt="hsihak" /></a> 
+</div>
+
+<br/>
 <div> 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsihak&show_icons=true&locale=en&layout=compact" alt="hsihak" />
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsihak&show_icons=true&locale=en" alt="hsihak" /></p>
