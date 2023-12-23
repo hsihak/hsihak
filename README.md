@@ -3,6 +3,8 @@
 
 ## 😄 About Me :
 
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Felis_Alba_Shape.png/revision/latest?cb=20230816185041" width="200" align="right">
+
 Check out my website to learn more about me: https://hsihak.vercel.app/ , (new website upcoming soon...)
 - 🧑🏼‍💻 I’m currently learning **Go** && **TypeScript**
 
