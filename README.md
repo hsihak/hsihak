@@ -5,7 +5,7 @@
 
 <img src="https://static.wikia.nocookie.net/gensin-impact/images/0/04/Corvus_Shape.png/revision/latest?cb=20220506215759" width="200" align="right">
 
-Check out my website to learn more about me: https://hsihak.vercel.app/ , (new website upcoming soon...)
+Check out my website to learn more about me: https://www.hangsihaksin.com/
 - 🧑🏼‍💻 I’m currently learning **Go** && **TypeScript**
 
 - 🌱 I'm interested in **Web Dev** && **DevOps**
@@ -14,12 +14,12 @@ Check out my website to learn more about me: https://hsihak.vercel.app/ , (new w
 
 - ⚡ Fun fact: **I love Gardening**
 
-## Connect with me :
+## 🤝 Connect with me :
 <p align="left">
 <a href="https://linkedin.com/in/hangsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hangsin" height="30" width="40" /></a>
 </p>
 
-## Languages and Frameworks
+## 🌐 Languages and Frameworks
 <div>
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
@@ -44,7 +44,7 @@ Check out my website to learn more about me: https://hsihak.vercel.app/ , (new w
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code>
 </div>
 
-## Tools: 
+## 🛠️ Tools: 
 <div>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
