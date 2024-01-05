@@ -12,7 +12,7 @@ Check out my website to learn more about me: https://www.hangsihaksin.com/
 
 - 📫 How to reach me **sin.hangsihak@gmail.com**
 
-- ⚡ Fun fact: **I love Gardening**
+- ⚡ Fun fact: **I love Gardening** && **trying out new Kombucha flavors**
 
 ## 🤝 Connect with me :
 <p align="left">
