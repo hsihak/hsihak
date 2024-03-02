@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hangsihak Sin ⸜(｡˃ ᵕ ˂ )⸝</h1>
-<h4 align="center">I am a Second Year Computer Science Nerd from <a href="https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours" target="_blank" rel="noreferrer">Conestoga College</a>, Class 2026</h4>
+<h4 align="center">I am a Second Year Computer Science Kid from <a href="https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours" target="_blank" rel="noreferrer">Conestoga College</a>, Class 2026</h4>
 
 ## 😄 About Me :
 
